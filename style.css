@@ -1,4 +1,7 @@
-* {box-sizing: border-box}
+*{
+  box-sizing: border-box;
+  background-color: darkkhaki;
+}
 
 /* Full-width input fields */
   input[type=text], input[type=password] {
