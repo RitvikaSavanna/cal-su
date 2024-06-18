@@ -66,8 +66,9 @@ input {
 
 /* Style the submit button */
 input[type=submit] {
-  background-color: #04AA6D;
-  color: white;
+  background-color: #b9fde4;
+  color: rgb(12, 1, 1);
+  width:10%;
 }
 
 /* Style the container for inputs */
